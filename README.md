@@ -11,7 +11,7 @@ Working on an AI assistant
 
 ## Frameworks
 - Unity Engine
-- Windows Presentation Forms
+- Windows Presentation Foundation
 - Windows Forms
 
 ## Interests
