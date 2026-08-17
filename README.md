@@ -1,23 +1,28 @@
-# Acrux Development
-Developing Libraries, Tools and Desktop Application
-Working on an AI assistant
+# Alenika Koda
+
+Currently building **Nexvane**, a custom game engine with a C++ core and DSLs, alongside tailored build pipelines and developer tools. 
 
 ## Languages
-- C#
 - C++
+- C#
 - Python
 - Java
 - SQL
 
-## Frameworks
+## Frameworks & Tools
 - Unity Engine
-- Windows Presentation Foundation
-- Windows Forms
+- Raylib, EnTT, ENet & Dear ImGui
+- DotNET, ASP.NET & CoreCLR
+- WPF, Windows Forms & AvaloniaUI
+- Linux, CMake & NeoVim
+- PostgreSQL
 
 ## Interests
+- Creating developer tools & build systems
+- Low-level systems programming
+- Backend Development
+- 80s music production 
 - A nice coffee
-- Expanding coding knowledge
-- 80s Music Production
 
 <!---
 AcruxStudios/AcruxStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
